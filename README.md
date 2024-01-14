@@ -1,10 +1,8 @@
 # World-Economic-Data
-Exploring Economic Growth History of East Asia: A Comparative Analysis Approach on Determinants of North East Asia and South East Asia
-Assessment Topic: Exploring Economic Growth History of East Asia (2011-2020): A Comparative Analysis Approach on Determinants of North East Asia and South East Asia
-Submitted by Remya Vellakkadaparambu Karthikeyan 
-on 05/12/2023
+Topic: Exploring Economic Growth History of East Asia (2011-2020): A Comparative Analysis Approach on Determinants of North East Asia and South East Asia
+
 ====================
-ASDV Assessment README File
+ README File
 ====================
 
 ## Contents:
